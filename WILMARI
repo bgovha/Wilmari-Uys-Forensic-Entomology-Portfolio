@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -49,7 +50,7 @@
             font-size: 3.5em;
             margin-bottom: 10px;
             font-weight: 700;
-            text-shadow: 2px 2px 4px rgba(0,0,0,0.3);
+            text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
         }
 
         .hero .subtitle {
@@ -67,7 +68,7 @@
 
         nav {
             background: #fff;
-            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
             position: sticky;
             top: 0;
             z-index: 100;
@@ -107,7 +108,7 @@
             margin: 30px 0;
             padding: 50px 40px;
             border-radius: 10px;
-            box-shadow: 0 5px 20px rgba(0,0,0,0.08);
+            box-shadow: 0 5px 20px rgba(0, 0, 0, 0.08);
         }
 
         h2 {
@@ -125,7 +126,9 @@
             margin-bottom: 15px;
         }
 
-        .education-item, .work-item, .presentation-item {
+        .education-item,
+        .work-item,
+        .presentation-item {
             margin-bottom: 30px;
             padding: 20px;
             background: #f9f9f9;
@@ -223,7 +226,7 @@
             .hero h1 {
                 font-size: 2.5em;
             }
-            
+
             .hero .subtitle {
                 font-size: 1.2em;
             }
@@ -242,12 +245,15 @@
         }
     </style>
 </head>
+
 <body>
     <div class="hero">
         <div class="hero-content">
             <h1>Wilmari Uys</h1>
             <p class="subtitle">Forensic Entomology Specialist</p>
-            <p class="tagline">Dedicated entomologist with nearly 10 years of experience in insect ecology, taxonomy, and development, specializing in forensic applications and advancing scientific solutions to complex challenges.</p>
+            <p class="tagline">Dedicated entomologist with nearly 10 years of experience in insect ecology, taxonomy,
+                and development, specializing in forensic applications and advancing scientific solutions to complex
+                challenges.</p>
         </div>
     </div>
 
@@ -265,18 +271,24 @@
     <div class="container">
         <section id="about">
             <h2>About Me</h2>
-            <p>Dedicated entomologist with a strong background in insect ecology, taxonomy, and development. With nearly 10 years of field and laboratory experience, I specialise in studying insect behaviour and biology to support the advancement of practical solutions to complex scientific challenges.</p>
-            <p>Passionate about science education and public engagement, I am committed to mentoring and empowering students, training professionals, and expanding entomological literacy within academia and among broader audiences. I bring a collaborative spirit, curiosity-driven mindset, and a meticulous approach to every project.</p>
+            <p>Dedicated entomologist with a strong background in insect ecology, taxonomy, and development. With nearly
+                10 years of field and laboratory experience, I specialise in studying insect behaviour and biology to
+                support the advancement of practical solutions to complex scientific challenges.</p>
+            <p>Passionate about science education and public engagement, I am committed to mentoring and empowering
+                students, training professionals, and expanding entomological literacy within academia and among broader
+                audiences. I bring a collaborative spirit, curiosity-driven mindset, and a meticulous approach to every
+                project.</p>
         </section>
 
         <section id="education">
             <h2>Education</h2>
-            
+
             <div class="education-item">
                 <span class="year">2018 - Current</span>
                 <h3>PhD Forensic Entomology</h3>
                 <p><strong>University of Cape Town, South Africa</strong></p>
-                <p><em>Thesis:</em> Investigating age-related intra-puparial characteristics of necrophagous fly pupae to improve the accuracy of post-mortem interval estimation.</p>
+                <p><em>Thesis:</em> Investigating age-related intra-puparial characteristics of necrophagous fly pupae
+                    to improve the accuracy of post-mortem interval estimation.</p>
                 <p><em>Supervisor:</em> Dr Marise Heyns | <em>Co-supervisor:</em> Dr Calvin G. Mole</p>
             </div>
 
@@ -292,15 +304,18 @@
                 <span class="year">2014</span>
                 <h3>MSc Entomology</h3>
                 <p><strong>Stellenbosch University, South Africa</strong></p>
-                <p><em>Thesis:</em> Thermal limits of activity and survival in false codling moth, Thaumatotibia leucotreta (Tortricidae): life-stage and ramping rate effects.</p>
-                <p><em>Supervisor:</em> Prof John S. Terblanche | <em>Co-supervisors:</em> Dr Leigh Boardman, Dr Katherine A. Mitchell</p>
+                <p><em>Thesis:</em> Thermal limits of activity and survival in false codling moth, Thaumatotibia
+                    leucotreta (Tortricidae): life-stage and ramping rate effects.</p>
+                <p><em>Supervisor:</em> Prof John S. Terblanche | <em>Co-supervisors:</em> Dr Leigh Boardman, Dr
+                    Katherine A. Mitchell</p>
             </div>
 
             <div class="education-item">
                 <span class="year">2012</span>
                 <h3>BSc (Hons) Physiology</h3>
                 <p><strong>Stellenbosch University, South Africa</strong></p>
-                <p><em>Thesis:</em> Evaluating the role of the PKC pathway in the development of myocardial oxidative stress and cell death.</p>
+                <p><em>Thesis:</em> Evaluating the role of the PKC pathway in the development of myocardial oxidative
+                    stress and cell death.</p>
             </div>
 
             <div class="education-item">
@@ -325,17 +340,22 @@
                 <span class="year">2024 - Current</span>
                 <h3>Lecturer (Freelance)</h3>
                 <p><strong>Wildlife Forensic Academy, South Africa</strong></p>
-                <p>Delivers in-person lecture and practical sessions covering Forensic Entomology and Insect Collection and Identification.</p>
+                <p>Delivers in-person lecture and practical sessions covering Forensic Entomology and Insect Collection
+                    and Identification.</p>
             </div>
 
             <div class="work-item">
                 <span class="year">2024 - Current</span>
                 <h3>Consultant & Co-Supervisor of International Intern Projects</h3>
                 <p><strong>Wildlife Forensic Academy, South Africa</strong></p>
-                <p>Supervised multiple international students from Netherlands institutions, providing training in experimental techniques, academic writing, and data collection. Successfully completed projects include:</p>
+                <p>Supervised multiple international students from Netherlands institutions, providing training in
+                    experimental techniques, academic writing, and data collection. Successfully completed projects
+                    include:</p>
                 <ul>
-                    <li>Jasper van den Broek (Hogeschool van Amsterdam) - Growth and development of forensic fly species</li>
-                    <li>Luca F. Nederhost (University of Amsterdam) - Automatic identification of South African insect species</li>
+                    <li>Jasper van den Broek (Hogeschool van Amsterdam) - Growth and development of forensic fly species
+                    </li>
+                    <li>Luca F. Nederhost (University of Amsterdam) - Automatic identification of South African insect
+                        species</li>
                     <li>Maaike Vogelaar (Hogeschool van Amsterdam) - Expanding entomology database for AI models</li>
                     <li>Elin Rikken (Hogeschool van Amsterdam) - Automatic identification of forensic maggots</li>
                 </ul>
@@ -346,14 +366,17 @@
                 <h3>Co-Supervisor, MSc Forensic Entomology</h3>
                 <p><strong>University of Cape Town, South Africa</strong></p>
                 <p>Student: Ms Darshni K. Naiker</p>
-                <p><em>Thesis:</em> The effect of temperature on the developmental rate of forensically important blowflies found within the Western Cape of South Africa.</p>
+                <p><em>Thesis:</em> The effect of temperature on the developmental rate of forensically important
+                    blowflies found within the Western Cape of South Africa.</p>
             </div>
 
             <div class="work-item">
                 <span class="year">2020 - 2025</span>
                 <h3>Teaching Assistant</h3>
                 <p><strong>University of Cape Town, South Africa</strong></p>
-                <p>Prepared and delivered lectures on Introduction to Forensic Entomology, Changes after Death, and Ethical and Legislative Framework to postgraduate students. Hosted discussion groups, practical sessions, and trained students in laboratory techniques.</p>
+                <p>Prepared and delivered lectures on Introduction to Forensic Entomology, Changes after Death, and
+                    Ethical and Legislative Framework to postgraduate students. Hosted discussion groups, practical
+                    sessions, and trained students in laboratory techniques.</p>
             </div>
 
             <div class="work-item">
@@ -369,21 +392,24 @@
                 <span class="year">2017</span>
                 <h3>Operations Manager</h3>
                 <p><strong>TOTAL Boulevard Motors, South Africa</strong></p>
-                <p>Managed administrative systems, customer relations, accounting procedures, and supervised employees while overseeing advertising and marketing.</p>
+                <p>Managed administrative systems, customer relations, accounting procedures, and supervised employees
+                    while overseeing advertising and marketing.</p>
             </div>
 
             <div class="work-item">
                 <span class="year">2016 - 2017</span>
                 <h3>Entomologist & Assistant Manager</h3>
                 <p><strong>Backsberg Estate Berry Farm, South Africa</strong></p>
-                <p>Conducted insect pest monitoring in blueberry orchards, supervised farm staff, and managed quality control systems.</p>
+                <p>Conducted insect pest monitoring in blueberry orchards, supervised farm staff, and managed quality
+                    control systems.</p>
             </div>
 
             <div class="work-item">
                 <span class="year">2013 - 2014</span>
                 <h3>Research & Field Assistant</h3>
                 <p><strong>Stellenbosch University, South Africa</strong></p>
-                <p>Managed insect colony maintenance, executed experimental procedures, and conducted field sample collection.</p>
+                <p>Managed insect colony maintenance, executed experimental procedures, and conducted field sample
+                    collection.</p>
             </div>
         </section>
 
@@ -392,39 +418,47 @@
 
             <h3>Peer-Reviewed Publications</h3>
             <div class="publication">
-                Terblanche, J.S., Mitchell, K.A., Uys, W., Short, C., Boardman, L., 2017. Thermal limits to survival and activity in two life stages of false codling moth Thaumatotibia leucotreta (Lepidoptera, Tortricidae). Physiological Entomology 42, 379 - 388. DOI: 10.1111/phen.12210.
+                Terblanche, J.S., Mitchell, K.A., Uys, W., Short, C., Boardman, L., 2017. Thermal limits to survival and
+                activity in two life stages of false codling moth Thaumatotibia leucotreta (Lepidoptera, Tortricidae).
+                Physiological Entomology 42, 379 - 388. DOI: 10.1111/phen.12210.
             </div>
 
             <h3>Selected Conference Presentations</h3>
-            
+
             <div class="presentation-item">
                 <span class="year">2024</span>
                 <p><strong>20th Meeting of the European Association for Forensic Entomology (EAFE)</strong></p>
-                <p>Exploring age-related transformations in internal morphology of Chrysomya chloropyga pupae through micro-computed tomography scanning. Ingelheim, Germany.</p>
+                <p>Exploring age-related transformations in internal morphology of Chrysomya chloropyga pupae through
+                    micro-computed tomography scanning. Ingelheim, Germany.</p>
             </div>
 
             <div class="presentation-item">
                 <span class="year">2023</span>
                 <p><strong>Royal Entomological Society (RES) Ento23 Annual Conference</strong></p>
-                <p>Utilising micro-computed tomography in age estimation during the intra-puparial period of the forensically relevant blowfly, Chrysomya chloropyga. University of Exeter, Cornwall, UK.</p>
+                <p>Utilising micro-computed tomography in age estimation during the intra-puparial period of the
+                    forensically relevant blowfly, Chrysomya chloropyga. University of Exeter, Cornwall, UK.</p>
             </div>
 
             <div class="presentation-item">
                 <span class="year">2022</span>
                 <p><strong>18th Meeting of the European Association for Forensic Entomology (EAFE)</strong></p>
-                <p>Investigating changes in eye pigmentation as a means of determining the age of Chrysomya chloropyga pupae. Alcalá University, Spain.</p>
+                <p>Investigating changes in eye pigmentation as a means of determining the age of Chrysomya chloropyga
+                    pupae. Alcalá University, Spain.</p>
             </div>
 
             <div class="presentation-item">
                 <span class="year">2021</span>
                 <p><strong>22nd Congress of the Entomological Society of Southern Africa (ESSA)</strong></p>
-                <p>Using external morphological features of Lucilia sericata during the intra-puparial period for age determination in forensic investigations. Limpopo, South Africa.</p>
+                <p>Using external morphological features of Lucilia sericata during the intra-puparial period for age
+                    determination in forensic investigations. Limpopo, South Africa.</p>
             </div>
 
             <h3>Accolades & Scholarships</h3>
             <ul class="awards">
-                <li><strong>2022:</strong> ESSA Young Entomologists' Travel Grant for attendance of the 18th EAFE Meeting</li>
-                <li><strong>2021:</strong> Best Student Presentation at the 17th Meeting of the European Association for Forensic Entomology</li>
+                <li><strong>2022:</strong> ESSA Young Entomologists' Travel Grant for attendance of the 18th EAFE
+                    Meeting</li>
+                <li><strong>2021:</strong> Best Student Presentation at the 17th Meeting of the European Association for
+                    Forensic Entomology</li>
                 <li><strong>2020:</strong> South African Academy of Sciences and Arts Scholarship (PhD)</li>
                 <li><strong>2018:</strong> Siri Johnson Bursary and UCT Merit Bursary</li>
             </ul>
@@ -432,46 +466,46 @@
 
         <section id="skills">
             <h2>Laboratory & Skills</h2>
-            
+
             <div class="skills-grid">
                 <div class="skill-card">
                     <h4>Entomology Expertise</h4>
                     <p>• Insect specimen collection, trapping, and preservation<br>
-                    • Pinning and labelling techniques<br>
-                    • Classification and identification<br>
-                    • Insect rearing and colony maintenance<br>
-                    • Insect morphology and physiology<br>
-                    • Stereomicroscopy and μ-CT scanning</p>
+                        • Pinning and labelling techniques<br>
+                        • Classification and identification<br>
+                        • Insect rearing and colony maintenance<br>
+                        • Insect morphology and physiology<br>
+                        • Stereomicroscopy and μ-CT scanning</p>
                 </div>
 
                 <div class="skill-card">
                     <h4>Laboratory Techniques</h4>
                     <p>• Histology (processing, embedding, staining, analysis)<br>
-                    • FTIR-ATR<br>
-                    • ELISA<br>
-                    • Tissue culture<br>
-                    • Flow cytometry<br>
-                    • Fluorescence microscopy</p>
+                        • FTIR-ATR<br>
+                        • ELISA<br>
+                        • Tissue culture<br>
+                        • Flow cytometry<br>
+                        • Fluorescence microscopy</p>
                 </div>
 
                 <div class="skill-card">
                     <h4>Research & Writing</h4>
                     <p>• SOP development<br>
-                    • Research proposals and manuscripts<br>
-                    • Ethics applications<br>
-                    • Laboratory records management<br>
-                    • Experimental design<br>
-                    • Scientific communication</p>
+                        • Research proposals and manuscripts<br>
+                        • Ethics applications<br>
+                        • Laboratory records management<br>
+                        • Experimental design<br>
+                        • Scientific communication</p>
                 </div>
 
                 <div class="skill-card">
                     <h4>Technical Skills</h4>
                     <p>• Microsoft Office Suite<br>
-                    • Google Workspace<br>
-                    • Statistical software (SPSS, Statistica, R)<br>
-                    • Online learning platforms<br>
-                    • Laboratory equipment operation<br>
-                    • Data analysis and visualization</p>
+                        • Google Workspace<br>
+                        • Statistical software (SPSS, Statistica, R)<br>
+                        • Online learning platforms<br>
+                        • Laboratory equipment operation<br>
+                        • Data analysis and visualization</p>
                 </div>
             </div>
 
@@ -487,7 +521,8 @@
         <section id="contact">
             <div class="contact-info">
                 <h2 style="color: white; border-bottom-color: white;">Get In Touch</h2>
-                <p style="margin: 20px 0;">I'm always interested in discussing forensic entomology, research collaborations, or educational opportunities.</p>
+                <p style="margin: 20px 0;">I'm always interested in discussing forensic entomology, research
+                    collaborations, or educational opportunities.</p>
                 <a href="mailto:uys.wilmari@gmail.com">✉ uys.wilmari@gmail.com</a>
                 <a href="https://www.linkedin.com/in/wilmariuys" target="_blank">🔗 LinkedIn: wilmariuys</a>
                 <p style="margin-top: 30px; font-size: 1.1em;">📍 Cape Town, South Africa</p>
@@ -499,4 +534,5 @@
         <p>&copy; 2025 Wilmari Uys | Forensic Entomology Specialist</p>
     </footer>
 </body>
+
 </html>
